@@ -1,0 +1,20 @@
+integer i=12;
+char cc='132134564654';
+if i <= (36/3) then   /*456a46d45s*/
+	i++;
+for(int i=0;i>=0 and i<=10.3 or i<>10.456E20 not i==10.36e-10)
+	c=a+b;
+c=a-b;
+c=a*b;
+c=a/b
+
+if(1)
+	j+k;
+else
+	mmm;
+
+do
+
+while(true);
+
+to;
