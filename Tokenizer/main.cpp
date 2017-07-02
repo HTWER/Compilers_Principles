@@ -3,9 +3,9 @@
 
 int main()
 {
-	//	lexical test("Source.txt");
-	lexical test("Source-test1.txt");
-	//	lexical test("Source-test2.txt");
+	lexical test("Source.txt");
+	//lexical test("Source-test1.txt");
+	//lexical test("Source-test2.txt");
 	test.start();
 
 	system("pause");
