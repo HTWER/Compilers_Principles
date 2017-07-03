@@ -1,0 +1,34 @@
+E ( T K
+E 0idtype T K
+E 0itype T K
+E 0ftype T K
+E 0ctype T K
+E 0btype T K
+T ( F M
+T 0idtype F M
+T 0itype F M
+T 0ftype F M
+T 0ctype F M
+T 0btype F M
+F ( ( E )
+F 0idtype V
+F 0itype V
+F 0ftype V
+F 0ctype V
+F 0btype V
+V 0idtype 0idtype
+V 0itype 0itype
+V 0ftype 0ftype
+V 0ctype 0ctype
+V 0btype 0btype
+K + + T K
+K - - T K
+K ) #
+K # #
+M + #
+M - #
+M * * F M
+M / / F M
+M ) #
+M # #
+
